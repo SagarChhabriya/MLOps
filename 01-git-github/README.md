@@ -122,3 +122,126 @@ In Git, `.gitignore` is a file used to specify which files and directories Git s
 
 Each command has its own use case depending on whether you want to discard, unstage, or preserve history.
 
+# **5. Git Alias**  
+
+Git aliases are shortcuts for Git commands, making your workflow faster and easier. Instead of typing long commands, you can create simple aliases like `git co` instead of `git checkout`.  
+
+---
+
+## **5.1 How to Create a Git Alias**  
+Use `git config` to create an alias:  
+
+### **Global Aliases (Works in all repositories)**  
+```bash
+git config --global alias.co checkout   # Now `git co` = `git checkout`
+git config --global alias.br branch    # `git br` = `git branch`
+git config --global alias.ci commit    # `git ci` = `git commit`
+git config --global alias.st status    # `git st` = `git status`
+```
+
+### **Local Aliases (Works only in the current repository)**  
+```bash
+git config alias.last 'log -1 HEAD'  # Shows the last commit
+```
+
+---
+
+## **5.2 Where Aliases Are Stored**  
+- **Global aliases** are saved in your **`.gitconfig`** file (located in your home directory):  
+  - **Linux/Mac:** `~/.gitconfig`  
+  - **Windows:** `C:\Users\YourUsername\.gitconfig`  
+
+- **Local aliases** are stored in the repository's `.git/config` file  
+
+You can directly edit this file to add/remove aliases in the `[alias]` section.  
+
+Example `.gitconfig` snippet:  
+```ini
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+```
+
+---
+
+## **5.3 Useful Beginner-Friendly Aliases**  
+
+### **Basic Shortcuts**  
+```bash
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+```
+
+### **Log Shortcuts**  
+```bash
+# Short log format  
+git config --global alias.lg "log --oneline --graph"  
+
+# Show last commit  
+git config --global alias.last 'log -1 HEAD'  
+```
+
+### **Undo & Fix Mistakes**  
+```bash
+# Unstage a file (keeps changes)  
+git config --global alias.unstage 'reset HEAD --'  
+
+# Discard changes in a file  
+git config --global alias.discard 'checkout --'  
+
+# Soft undo last commit (keeps changes in staging)  
+git config --global alias.undo 'reset --soft HEAD^'  
+```
+
+### **Stash Shortcuts**  
+```bash
+git config --global alias.ss 'stash save'  
+git config --global alias.sl 'stash list'  
+git config --global alias.sp 'stash pop'  
+```
+
+---
+
+## **5.4 How to See All Your Aliases**  
+```bash
+git config --get-regexp alias  # Lists all aliases
+```
+
+---
+
+## **5.5 How to Remove an Alias**  
+```bash
+git config --global --unset alias.co  # Removes `git co` alias
+```
+
+---
+
+## **5.6 Example: Using Aliases in Daily Workflow**  
+Before Aliases:  
+```bash
+git checkout -b new-feature
+git add .
+git commit -m "Add new feature"
+git log --oneline --graph
+```
+
+After Aliases:  
+```bash
+git co -b new-feature
+git add .
+git ci -m "Add new feature"
+git lg
+```
+
+---
+
+### **In Short**  
+- **`git config --global alias.X Y`** → Creates shortcut `git X` for `git Y`  
+- **Aliases are stored in `.gitconfig`** (global) or `.git/config` (local)  
+- **Useful for common commands** (`status`, `checkout`, `commit`)  
+- **View aliases** with `git config --get-regexp alias`  
+- **Remove aliases** with `git config --global --unset alias.X`  
