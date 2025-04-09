@@ -615,7 +615,130 @@ Remember: Git Diff is your best friend for understanding exactly what changes yo
 
 
 # 11. Skip Staging Area
+
 git commit -a -m "Skip staging area"
 
 git commit <file_name> -m "Commit message"
+
+
+# 12. Git Stash
+
+Store changes in a temporary area without commit? 
+
+Store changes in a temporary area that you haven't committed after the previous commit
+
+helps in working multiple branches
+
+git stash list
+
+git stash apply
+
+# 13. Colloboration
+Credential Manager
+
+
+# 14. README
+sheilds.io
+
+
+# 15. GitHub Actions
+
+# Workflows
+Event: Triggers
+Job: Tasks/Set of steps
+Step: Single tasks
+Runner: Virtual Machine | GitHub hosted/self hosted
+
+
+Workflow execution flow: Event occurs --> Workflow start --> Jobs execute in paralle(by default)
+
+
+# Create first workflow
+
+<!-- Workflow name -->
+name: my_workflow
+
+<!-- Event -->
+on: 
+  push:
+    branches: [main]
+<!-- on any puch in main branch do the jobs-->
+
+
+jobs:
+<!-- job name demo its variable -->
+  demo: 
+  <!-- the runner -->
+    runs-on: ubuntu-latest  
+
+  <!-- Tasks for runner -->
+    steps:
+      - name: Greetings
+        run: echo "Hello biruu"
+
+
+# Schduling Workflows
+
+name: Schedular
+
+on: 
+  schedule:
+    <!-- Command Run ons: Minutes Hourse Day Week -->
+    - crons: "0 0 * * *"
+
+jobs:
+  run-scripts:
+    runs-on: ubunte-latest
+
+    steps:
+      - name: print message
+      run: echo "Schedular triggered"
+
+
+# Disabling workflows
+
+name: disable workflow
+
+on:
+  disable:
+    branches: [main]
+
+jobs:
+  disable:
+    runs-on: ubuntu-latest
+
+
+    steps:
+      - name: disabling
+        run: echo "workflow disabled"
+
+
+### Click on 3 dots in right corner and click on disable workflow
+
+
+# Caching & Artifacts
+Caching: Fast the workflow execution
+Artifacts: Save the build and debug, download or deploy
+
+# Job Concurrency
+Make a build of the latest commit
+
+
+# 16. Generating SSH Keys
+
+We can link multiple github accounts at a time on a single system by generating multiple ssh keys.
+
+This eliminates the process of manually configuring the email, user name, and updating the credential manager
+
+
+In simple ek laptop pe multiple github accounts k saath kaam kar sakte and woh b https se ziada secure
+
+
+
+ssh-keygen -t ed25519 -C "githubemail"
+public key and private key
+
+### MUST DO TASK
+
+
 
