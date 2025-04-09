@@ -612,3 +612,10 @@ Create handy aliases in your `.gitconfig`:
 ```
 
 Remember: Git Diff is your best friend for understanding exactly what changes you're about to commit or push!
+
+
+# 11. Skip Staging Area
+git commit -a -m "Skip staging area"
+
+git commit <file_name> -m "Commit message"
+
