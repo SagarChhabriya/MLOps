@@ -404,14 +404,14 @@ git commit --amend -m "New improved commit message"
 ```
 
 ## **7.3 Important Notes**
-⚠️ **Never amend commits that have been pushed to a shared repository**  
+**Never amend commits that have been pushed to a shared repository**  
 - This changes the commit hash and can cause problems for others  
 - Only amend local commits that haven't been pushed yet  
 
 ## **7.4 When to Use Amend**
-✅ Forgot to add a file to last commit  
-✅ Need to fix a typo in commit message  
-✅ Made a small change right after committing  
+- Forgot to add a file to last commit  
+- Need to fix a typo in commit message  
+- Made a small change right after committing  
 
 ---
 
