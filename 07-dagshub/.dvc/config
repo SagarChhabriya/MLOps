@@ -1,2 +1,5 @@
 [core]
     no_scm = True
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/SagarChhabriya/my-first-repo.dvc
