@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/8f317c66f2b146798fe82a624510b7c8/artifacts
+end_time: 1758036727529
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 8f317c66f2b146798fe82a624510b7c8
+run_name: vaunted-grub-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758036669759
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

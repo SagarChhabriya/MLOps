@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a93181034e04530b432d93e62d3cdd6/artifacts
+end_time: 1757957026823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a93181034e04530b432d93e62d3cdd6
+run_name: gentle-mule-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757957026633
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/5ea0dfaa2aed44a49d6c2e2db5dbae6a/artifacts
+end_time: 1758036750256
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 5ea0dfaa2aed44a49d6c2e2db5dbae6a
+run_name: sincere-stoat-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758036728052
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

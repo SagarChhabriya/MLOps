@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/22d7c60e74b044db81620f0463d537f3/artifacts
+end_time: 1758036770727
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 22d7c60e74b044db81620f0463d537f3
+run_name: skittish-skink-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758036750459
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

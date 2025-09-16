@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/c8095472699d41c4ba3d084890ec7dfb/artifacts
+end_time: 1758037361504
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: c8095472699d41c4ba3d084890ec7dfb
+run_name: sassy-stag-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758037321787
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

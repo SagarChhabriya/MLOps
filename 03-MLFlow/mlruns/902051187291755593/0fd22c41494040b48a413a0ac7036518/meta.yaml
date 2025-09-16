@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/0fd22c41494040b48a413a0ac7036518/artifacts
+end_time: 1758037425040
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 0fd22c41494040b48a413a0ac7036518
+run_name: useful-mink-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758037406118
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

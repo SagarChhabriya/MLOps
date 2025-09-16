@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/7bef35ec27044ae79800797862ee2854/artifacts
+end_time: 1758037361345
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 7bef35ec27044ae79800797862ee2854
+run_name: melodic-snake-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758037322702
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

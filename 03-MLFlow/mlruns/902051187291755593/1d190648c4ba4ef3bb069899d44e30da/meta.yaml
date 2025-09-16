@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/1d190648c4ba4ef3bb069899d44e30da/artifacts
+end_time: 1758037425117
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 1d190648c4ba4ef3bb069899d44e30da
+run_name: persistent-wolf-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758037405960
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

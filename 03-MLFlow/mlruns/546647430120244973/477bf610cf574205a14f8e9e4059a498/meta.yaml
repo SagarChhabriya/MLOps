@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546647430120244973/477bf610cf574205a14f8e9e4059a498/artifacts
+end_time: 1757930033250
+entry_point_name: ''
+experiment_id: '546647430120244973'
+lifecycle_stage: active
+run_id: 477bf610cf574205a14f8e9e4059a498
+run_name: skillful-stag-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757930033007
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

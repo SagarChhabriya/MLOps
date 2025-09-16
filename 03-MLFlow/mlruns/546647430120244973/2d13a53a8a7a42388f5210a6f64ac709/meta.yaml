@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546647430120244973/2d13a53a8a7a42388f5210a6f64ac709/artifacts
+end_time: 1757923530938
+entry_point_name: ''
+experiment_id: '546647430120244973'
+lifecycle_stage: active
+run_id: 2d13a53a8a7a42388f5210a6f64ac709
+run_name: incongruous-eel-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757923530703
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

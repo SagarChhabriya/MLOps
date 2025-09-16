@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/124d8528c7fa44ed8f7ea56a5661a5fe/artifacts
+end_time: 1758032457177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 124d8528c7fa44ed8f7ea56a5661a5fe
+run_name: redolent-cat-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758032259118
+status: 4
+tags: []
+user_id: Mr Sagar Kumar

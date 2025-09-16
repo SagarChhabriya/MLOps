@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/16ad25a745dd4394bcb3d0029bfe0256/artifacts
+end_time: 1758037439893
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 16ad25a745dd4394bcb3d0029bfe0256
+run_name: hyperopt_search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758037321358
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

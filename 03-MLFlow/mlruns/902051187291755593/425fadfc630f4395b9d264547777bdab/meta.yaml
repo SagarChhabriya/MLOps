@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/425fadfc630f4395b9d264547777bdab/artifacts
+end_time: 1758037405790
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 425fadfc630f4395b9d264547777bdab
+run_name: languid-skink-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758037387781
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

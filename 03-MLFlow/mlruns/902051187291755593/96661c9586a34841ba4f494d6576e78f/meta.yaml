@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/96661c9586a34841ba4f494d6576e78f/artifacts
+end_time: 1758036750343
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 96661c9586a34841ba4f494d6576e78f
+run_name: judicious-hound-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758036727810
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

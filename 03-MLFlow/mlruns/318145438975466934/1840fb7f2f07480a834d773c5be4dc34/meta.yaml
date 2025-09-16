@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/318145438975466934/1840fb7f2f07480a834d773c5be4dc34/artifacts
+end_time: 1757957519823
+entry_point_name: ''
+experiment_id: '318145438975466934'
+lifecycle_stage: active
+run_id: 1840fb7f2f07480a834d773c5be4dc34
+run_name: angry-boar-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757957519562
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a07217e74324ef5ab00edd6da909fbd/artifacts
+end_time: 1757971023086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a07217e74324ef5ab00edd6da909fbd
+run_name: rumbling-wren-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757970756524
+status: 4
+tags: []
+user_id: Mr Sagar Kumar

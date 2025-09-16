@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/318145438975466934/0e1a4a001adf46dd8b66bae5b72381fd/artifacts
+end_time: 1757957520104
+entry_point_name: ''
+experiment_id: '318145438975466934'
+lifecycle_stage: active
+run_id: 0e1a4a001adf46dd8b66bae5b72381fd
+run_name: intelligent-lark-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757957519880
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546647430120244973/cf9820906b4a4e4180653c6c68f910cd/artifacts
+end_time: 1757925713068
+entry_point_name: ''
+experiment_id: '546647430120244973'
+lifecycle_stage: active
+run_id: cf9820906b4a4e4180653c6c68f910cd
+run_name: secretive-calf-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757925712919
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902051187291755593/47a81e7518ba4a0fa3198e06ce8f2002/artifacts
+end_time: 1758036727664
+entry_point_name: ''
+experiment_id: '902051187291755593'
+lifecycle_stage: active
+run_id: 47a81e7518ba4a0fa3198e06ce8f2002
+run_name: gentle-doe-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758036669465
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

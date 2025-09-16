@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/318145438975466934/dee209cf220647bbb39e36621bf7afcf/artifacts
+end_time: 1757957521187
+entry_point_name: ''
+experiment_id: '318145438975466934'
+lifecycle_stage: active
+run_id: dee209cf220647bbb39e36621bf7afcf
+run_name: auspicious-cow-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757957520910
+status: 3
+tags: []
+user_id: Mr Sagar Kumar

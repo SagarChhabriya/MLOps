@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/546647430120244973/94ca994e027d405ebc0eefd683748390/artifacts
+end_time: 1757925719500
+entry_point_name: ''
+experiment_id: '546647430120244973'
+lifecycle_stage: active
+run_id: 94ca994e027d405ebc0eefd683748390
+run_name: melodic-foal-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757925719335
+status: 3
+tags: []
+user_id: Mr Sagar Kumar
