@@ -1,0 +1,5 @@
+# Ignore DVC's internal files
+.dvc/
+*.dvc
+# Ignore data files (which will be tracked by DVC)
+data/
