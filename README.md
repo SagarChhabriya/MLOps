@@ -1,5 +1,8 @@
 # MLOps
 
+<img width="3167" height="961" alt="image" src="https://github.com/user-attachments/assets/9d75073c-b2c7-4a6d-8a32-7c7c12a2a041" />
+
+
 1. [https://kodekloud.com/pages/free-labs](https://kodekloud.com/pages/free-labs)
 
 
