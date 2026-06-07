@@ -1,7 +1,18 @@
 # DVC
 Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow. 
 
-Search: datachain
+> Search: datachain
+
+
+```bash
+pip install dvc
+dvc init
+```
+
+
+
+
+
 
 
 ### Dagshub: The AI Platform for vision, audio and document data. 
